@@ -1,4 +1,4 @@
-print('An annoying questionaire')
+print('An annoying questionaire.')
 print('-------------------------')
 print()
 a = input('What are you interested in?: ')
